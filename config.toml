@@ -10,7 +10,8 @@ disqusShortname = "bugrabalkac"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ############################# Plugins ##############################
 [params.plugins]
