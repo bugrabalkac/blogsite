@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bugra Balkac | Personal blog</title>
-    <link>/tags/</link>
+    <link>https://bugrabalkac.me/tags/</link>
     <description>Recent content in Tags on Bugra Balkac | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bugrabalkac.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Game</title>
-      <link>/tags/game/</link>
+      <link>https://bugrabalkac.me/tags/game/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/game/</guid>
+      <guid>https://bugrabalkac.me/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>/tags/html/</link>
+      <link>https://bugrabalkac.me/tags/html/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>https://bugrabalkac.me/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
-      <link>/tags/new/</link>
+      <link>https://bugrabalkac.me/tags/new/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/new/</guid>
+      <guid>https://bugrabalkac.me/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>/tags/photos/</link>
+      <link>https://bugrabalkac.me/tags/photos/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/photos/</guid>
+      <guid>https://bugrabalkac.me/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>/tags/python/</link>
+      <link>https://bugrabalkac.me/tags/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>https://bugrabalkac.me/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>/tags/react/</link>
+      <link>https://bugrabalkac.me/tags/react/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/react/</guid>
+      <guid>https://bugrabalkac.me/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>https://bugrabalkac.me/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://bugrabalkac.me/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://bugrabalkac.me/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://bugrabalkac.me/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://bugrabalkac.me/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://bugrabalkac.me/tags/regression/</guid>
       <description></description>
     </item>
     

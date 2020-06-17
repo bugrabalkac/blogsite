@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bugra Balkac | Personal blog</title>
-    <link>/categories/</link>
+    <link>https://bugrabalkac.me/categories/</link>
     <description>Recent content in Categories on Bugra Balkac | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bugrabalkac.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android And Gmaing</title>
-      <link>/categories/android-and-gmaing/</link>
+      <link>https://bugrabalkac.me/categories/android-and-gmaing/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/categories/android-and-gmaing/</guid>
+      <guid>https://bugrabalkac.me/categories/android-and-gmaing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go Language</title>
-      <link>/categories/go-language/</link>
+      <link>https://bugrabalkac.me/categories/go-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/categories/go-language/</guid>
+      <guid>https://bugrabalkac.me/categories/go-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>/categories/html/</link>
+      <link>https://bugrabalkac.me/categories/html/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/categories/html/</guid>
+      <guid>https://bugrabalkac.me/categories/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML &amp; CSS</title>
-      <link>/categories/html-css/</link>
+      <link>https://bugrabalkac.me/categories/html-css/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/categories/html-css/</guid>
+      <guid>https://bugrabalkac.me/categories/html-css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming Language</title>
-      <link>/categories/programming-language/</link>
+      <link>https://bugrabalkac.me/categories/programming-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/categories/programming-language/</guid>
+      <guid>https://bugrabalkac.me/categories/programming-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>/categories/python/</link>
+      <link>https://bugrabalkac.me/categories/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/categories/python/</guid>
+      <guid>https://bugrabalkac.me/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Design</title>
-      <link>/categories/web-design/</link>
+      <link>https://bugrabalkac.me/categories/web-design/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/categories/web-design/</guid>
+      <guid>https://bugrabalkac.me/categories/web-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://bugrabalkac.me/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://bugrabalkac.me/categories/r/</guid>
       <description></description>
     </item>
     
