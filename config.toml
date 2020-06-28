@@ -87,7 +87,7 @@ home = "Home"
 description = "This is meta description"
 author = "bugrabalkac"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "29211443"
 # Contact Information
 mobile = ""
 email = "bugrabalkac@gmail.com"
@@ -115,14 +115,14 @@ content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/bugrabalkac"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/bugrabalkac"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/bugrabalkac/"
